@@ -80,7 +80,7 @@ OUT → GPIO32 (Right Click)
 
 ## 📸 Project Preview
 
-(Add images/gifs of your glove, ESP32 setup, and testing here)
+https://github.com/rizwanmallick/Smart-Glove-Hand-Gesture-Mouse/blob/main/smart%20glove.jpg
 
 ---
 
